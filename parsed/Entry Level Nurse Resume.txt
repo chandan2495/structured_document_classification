@@ -1,0 +1,100 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="cp:revision" content="1" />
+<meta name="date" content="2014-02-11T08:46:00Z" />
+<meta name="Keywords" content="" />
+<meta name="subject" content="" />
+<meta name="dc:creator" content="" />
+<meta name="meta:print-date" content="1601-01-01T00:00:00Z" />
+<meta name="dcterms:created" content="2014-02-11T08:46:00Z" />
+<meta name="dcterms:modified" content="2014-02-11T08:46:00Z" />
+<meta name="Last-Modified" content="2014-02-11T08:46:00Z" />
+<meta name="Last-Save-Date" content="2014-02-11T08:46:00Z" />
+<meta name="Template" content="Normal.dotm" />
+<meta name="meta:save-date" content="2014-02-11T08:46:00Z" />
+<meta name="dc:title" content="" />
+<meta name="modified" content="2014-02-11T08:46:00Z" />
+<meta name="Edit-Time" content="1876087040000000" />
+<meta name="cp:subject" content="" />
+<meta name="Content-Type" content="application/msword" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.DefaultParser" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.microsoft.OfficeParser" />
+<meta name="creator" content="" />
+<meta name="meta:author" content="" />
+<meta name="dc:subject" content="" />
+<meta name="meta:creation-date" content="2014-02-11T08:46:00Z" />
+<meta name="Last-Printed" content="1601-01-01T00:00:00Z" />
+<meta name="meta:last-author" content="" />
+<meta name="Comments" content="" />
+<meta name="Creation-Date" content="2014-02-11T08:46:00Z" />
+<meta name="Last-Author" content="" />
+<meta name="w:comments" content="" />
+<meta name="Revision-Number" content="1" />
+<meta name="extended-properties:Template" content="Normal.dotm" />
+<meta name="meta:keyword" content="" />
+<meta name="Author" content="" />
+<meta name="comment" content="" />
+<title></title>
+</head>
+<body><p><b>ENTRY-LEVEL NURSE SAMPLE RESUME</b></p>
+<p>6499 Blake Avenue, Richmond, VA
+</p>
+<p>(803)344-2376</p>
+<p><a href="mailto:miamoreno@gmail.com"><u>miamoreno@gmail.com</u></a></p>
+<p><i>Nursing RN recent graduate seeking to use earned skills and knowledge to assist your hospital in a nursing role. Proven to ably handle any medical emergency or situation, with the requisite skillset to perform under pressure. Excellent interpersonal skills, and a dedicated worker with a sense of purpose. Possess a BS in Nursing.</i></p>
+<p><b><u>EDUCATION
+</u></b></p>
+<p><b>JOLIET UNIVERSITY</b>
+    <b>Chicago, IL</b></p>
+<p><i>Bachelor of Science in Nursing, May 2013</i></p>
+<p>· GPA: 3.7
+</p>
+<p>· Student Nursing Association, Member 2011-2013</p>
+<p><b><u>RELEVANT COURSEWORK
+</u></b>
+</p>
+<p>· Observational Methods
+</p>
+<p>· Principles of Teaching Applied to Nursing
+</p>
+<p>· Pharmaceuticals Oncology
+</p>
+<p>· Qualitative Analysis<b><u>
+</u></b></p>
+<p><b><u>LICENSURES &amp; CERTIFICATIONS
+</u></b></p>
+<h2>· Registered Nurse: New York State Board of Nursing, License #0000000
+</h2>
+<h2>· Basic Life Support (BLS) certified by American Heart Association </h2>
+<p><b><u>CLINICAL EXPERIENCE
+</u></b></p>
+<p class="comment_Subject"><b>CHICAGO MEDICAL CENTER
+Chicago, IL</b></p>
+<p><i>Preceptorship Nurse
+Spring 2012 - Present</i></p>
+<h2>· Monitored five assigned patients, updating information on vital signs and progress of treatment.
+</h2>
+<h2>· Documented data related to patients' care including assessment results, interventions, medications, patient responses, or treatment changes.
+</h2>
+<h2>· Assessed condition of patients, ordering and evaluating diagnostic tests as needed.
+</h2>
+<p class="comment_Subject"><b>STANDARD HOSPITAL
+Chicago, IL</b></p>
+<p><i>Clinical Practicum in Acute Care
+Fall 2010-2012</i></p>
+<h2>· Collaborated with other healthcare professionals to plan, manage, and assess patient treatments in the acute care unit with a bed capacity of 32 patients.
+</h2>
+<h2>· Administered blood product transfusions or intravenous infusions, monitoring patients for adverse reactions.
+</h2>
+<h2>· Performed emergency medical procedures, such as basic cardiac life support (BLS), advanced cardiac life support (ACLS), and other condition stabilizing interventions.
+</h2>
+<h2>· Discussed illnesses and treatments with patients and family members in a supportive manner.</h2>
+<p><b><u>OTHER WORK EXPERIENCE
+</u></b></p>
+<p class="comment_Subject"><b>CAMPUS COMPUTER LABS
+Chicago, IL</b></p>
+<p><i>Computing Lab Consultant
+September 2009-June 2010</i></p>
+<h2>· Assisted other students in the use of computers, software, and equipment in computer facilities 
+</h2>
+</body></html>

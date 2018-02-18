@@ -1,0 +1,124 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="date" content="2017-06-09T18:41:07.000875988" />
+<meta name="meta:paragraph-count" content="28" />
+<meta name="meta:word-count" content="252" />
+<meta name="Table-Count" content="0" />
+<meta name="meta:initial-author" content="tgrmu" />
+<meta name="initial-creator" content="tgrmu" />
+<meta name="Word-Count" content="252" />
+<meta name="generator" content="LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2" />
+<meta name="dcterms:created" content="2012-09-14T02:58:00" />
+<meta name="dcterms:modified" content="2017-06-09T18:41:07.000875988" />
+<meta name="Last-Modified" content="2017-06-09T18:41:07.000875988" />
+<meta name="nbPara" content="28" />
+<meta name="Last-Save-Date" content="2017-06-09T18:41:07.000875988" />
+<meta name="meta:object-count" content="0" />
+<meta name="meta:character-count" content="1764" />
+<meta name="Paragraph-Count" content="28" />
+<meta name="nbImg" content="0" />
+<meta name="meta:save-date" content="2017-06-09T18:41:07.000875988" />
+<meta name="modified" content="2017-06-09T18:41:07.000875988" />
+<meta name="Edit-Time" content="PT6M" />
+<meta name="meta:image-count" content="0" />
+<meta name="Image-Count" content="0" />
+<meta name="nbCharacter" content="1764" />
+<meta name="nbObject" content="0" />
+<meta name="nbPage" content="1" />
+<meta name="Object-Count" content="0" />
+<meta name="nbWord" content="252" />
+<meta name="Content-Type" content="application/vnd.oasis.opendocument.text" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.DefaultParser" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.odf.OpenDocumentParser" />
+<meta name="meta:creation-date" content="2012-09-14T02:58:00" />
+<meta name="meta:table-count" content="0" />
+<meta name="Creation-Date" content="2012-09-14T02:58:00" />
+<meta name="xmpTPg:NPages" content="1" />
+<meta name="Character Count" content="1764" />
+<meta name="editing-cycles" content="5" />
+<meta name="Page-Count" content="1" />
+<meta name="nbTab" content="0" />
+<meta name="meta:page-count" content="1" />
+<title></title>
+</head>
+<body><p><b>PERRY JAMESON</b>College Student Resume Format</p>
+<p><br />
+</p>
+<p />
+<p>1515 Stanley Drive #62</p>
+<p>Hometown, KS 66202</p>
+<p>perry.jameson@dbplanet.com</p>
+<p>(913) 555-1938</p>
+<p />
+<p><b>RESUME PROFILE</b></p>
+<p>Outstanding student with experience in print and online journalism seeks a position working with a communications, public relations, or publishing firm where I can use my writing, editing, and organizational skills.</p>
+<p />
+<p><b>EDUCATION</b></p>
+<p>The University of Missouri at Kansas City</p>
+<p>B.A. Communication Studies with a concentration in Corporate Communications with a minor in Sociology</p>
+<p />
+<p><b>EXPERIENCE</b></p>
+<p><b>Newspaper Staff Member, <i>The Daily</i></b></p>
+<p />
+<ul>	<li><p><b>Aug 2012 - present.</b> Features editor of campus newspaper, responsible for award-winning design.</p>
+</li>
+	<li><p><b>Aug 2009 - Aug 2011.</b> Researched information for news articles using library and Web sources. Composed and edited informational articles, columns, editorials, and advertising copy.</p>
+</li>
+</ul>
+<p />
+<p><b>Staff Member, 91.7 KVRX, UMKC's College Radio Station</b></p>
+<p />
+<ul>	<li><p><b>Aug 2011 - Aug 2012.</b> Assistant Program Manager. Developed radio playlists and implemented special radio promotions.</p>
+</li>
+	<li><p><b>Aug 2010 - Aug 2011. DJ.</b> Hosted a weekly radio show and assisted with radio station promotions.</p>
+</li>
+</ul>
+<p />
+<p><b>RELEVANT COLLEGE STUDIES AND SKILLS</b></p>
+<p>Technical writing; advanced composition; debate; video production; public relations; marketing; computer classes providing knowledge of word processing, desktop publishing, and Web software.</p>
+<p />
+<p><b>HONORS, AWARDS, AND MEMBERSHIPS</b></p>
+<p />
+<ul>	<li><p><b>U.S. Media Association Scholarship recipient</b></p>
+</li>
+</ul>
+<p>Scholarship based on academic achievement, community service, and campus participation and leadership in college projects and studies.</p>
+<ul>	<li><p><b>2012 Best College Newspaper Design winner</b></p>
+</li>
+</ul>
+<p>Missouri Journalism Education Association Contest</p>
+<ul>	<li><p><b>President of college chapter of Future Communicators of America (FCA), 2011 - 2012</b></p>
+</li>
+</ul>
+<p>Member, 2011 - present.</p>
+<ul>	<li><p><b>Treasurer of Student Debate Team, 2011 - 2012</b></p>
+</li>
+</ul>
+</body></html><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="X-Parsed-By" content="org.apache.tika.parser.DefaultParser" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.image.ImageParser" />
+<meta name="Transparency Alpha" content="none" />
+<meta name="tiff:ImageLength" content="256" />
+<meta name="Compression CompressionTypeName" content="deflate" />
+<meta name="Dimension PixelAspectRatio" content="1.0" />
+<meta name="Data BitsPerSample" content="8 8 8" />
+<meta name="X-TIKA:origResourceName" content="Thumbnails/thumbnail.png" />
+<meta name="Data PlanarConfiguration" content="PixelInterleaved" />
+<meta name="IHDR" content="width=198, height=256, bitDepth=8, colorType=RGB, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none" />
+<meta name="Compression NumProgressiveScans" content="1" />
+<meta name="Chroma ColorSpaceType" content="RGB" />
+<meta name="Chroma BlackIsZero" content="true" />
+<meta name="Compression Lossless" content="true" />
+<meta name="width" content="198" />
+<meta name="Dimension ImageOrientation" content="Normal" />
+<meta name="X-TIKA:embedded_resource_path" content="/embedded-1" />
+<meta name="tiff:BitsPerSample" content="8 8 8" />
+<meta name="tiff:ImageWidth" content="198" />
+<meta name="Chroma NumChannels" content="3" />
+<meta name="Data SampleFormat" content="UnsignedIntegral" />
+<meta name="Content-Type" content="image/png" />
+<meta name="height" content="256" />
+<title></title>
+</head>
+<body /></html>

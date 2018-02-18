@@ -1,0 +1,116 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="date" content="2017-06-09T18:05:35.752057861" />
+<meta name="meta:paragraph-count" content="27" />
+<meta name="meta:word-count" content="543" />
+<meta name="Table-Count" content="1" />
+<meta name="Word-Count" content="543" />
+<meta name="generator" content="LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2" />
+<meta name="dcterms:created" content="2017-06-09T18:04:24.078855326" />
+<meta name="dcterms:modified" content="2017-06-09T18:05:35.752057861" />
+<meta name="Last-Modified" content="2017-06-09T18:05:35.752057861" />
+<meta name="nbPara" content="27" />
+<meta name="Last-Save-Date" content="2017-06-09T18:05:35.752057861" />
+<meta name="meta:object-count" content="0" />
+<meta name="meta:character-count" content="4176" />
+<meta name="Paragraph-Count" content="27" />
+<meta name="nbImg" content="0" />
+<meta name="meta:save-date" content="2017-06-09T18:05:35.752057861" />
+<meta name="modified" content="2017-06-09T18:05:35.752057861" />
+<meta name="Edit-Time" content="P0D" />
+<meta name="meta:image-count" content="0" />
+<meta name="Image-Count" content="0" />
+<meta name="nbCharacter" content="4176" />
+<meta name="nbObject" content="0" />
+<meta name="nbPage" content="2" />
+<meta name="Object-Count" content="0" />
+<meta name="nbWord" content="543" />
+<meta name="Content-Type" content="application/vnd.oasis.opendocument.text" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.DefaultParser" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.odf.OpenDocumentParser" />
+<meta name="meta:creation-date" content="2017-06-09T18:04:24.078855326" />
+<meta name="meta:table-count" content="1" />
+<meta name="Creation-Date" content="2017-06-09T18:04:24.078855326" />
+<meta name="xmpTPg:NPages" content="2" />
+<meta name="Character Count" content="4176" />
+<meta name="editing-cycles" content="1" />
+<meta name="Page-Count" content="2" />
+<meta name="nbTab" content="1" />
+<meta name="meta:page-count" content="2" />
+<title></title>
+</head>
+<body><p><b>NATHAN TALOVSKY</b></p>
+<p>787 Coup Town, St # 08 • Lafayette, LA 64577<br />
+Cellular: (999) 758-0909 • Email: nathan.78 @ email . com</p>
+<p />
+<p><b>Human Resources Generalist</b></p>
+<p><b>Professional Summary:</b> Avid professional with over 6 years of experience in a fast paced Human Resources department. Incomparable ability to prioritize and execute multiple HR projects and deadlines concurrently. Unmatchable organizational, time management and interpersonal skills. Proficient in administering corporate HR initiatives, providing a broad level of counseling on recruitment, employee relations, retention and training programs and handling complex situations with professionalism and confidentiality. Expert knowledge of local, state, district and country laws influencing personnel actions.</p>
+<table><tr>	<td><p><b>AREAS OF EXPERTISE</b></p>
+</td>	<td><p />
+</td></tr>
+<tr>	<td><p>● Job analysis</p>
+</td>	<td><p>● Market pricing</p>
+</td></tr>
+<tr>	<td><p>● Salary administration</p>
+</td>	<td><p>● Performance review</p>
+</td></tr>
+<tr>	<td><p>● Employee orientation</p>
+</td>	<td><p>● HR policies development</p>
+</td></tr>
+<tr>	<td><p>● Benefits administration</p>
+</td>	<td><p>● Recruitment coordination</p>
+</td></tr>
+</table>
+<p><b>PROFESSIONAL EXPERIENCE</b></p>
+<p><b>Williams-Sonoma Inc. </b>– Maplewood, MN. [7/2010 – 7/2013]</p>
+<p><b>Human Resources Generalist<br />
+</b>Assisted and supported management and the leadership team with handling and resolving Human Resources issues. Created and maintained new hire and personnel files and entered them into Human Resources Information Systems.</p>
+<p>• <u>HR Management</u>: Supported processing and maintenance of payroll records in accordance with policies and procedures, informed Human Resources management of issues related to employee relations within the division or property as well as responded appropriately to the concerns of other employees.</p>
+<p>• <u>Administration</u>: Created and maintained filing systems. Generated Human Resources data reports, answered phone calls, recorded messages. Created and typed office correspondence using computer, maintained confidentiality of proprietary information plus, prepared and reviewed written documents accurately and completely.</p>
+<p>• <u>Recruitment and Hiring</u>: Assessed recruitment trends; proactively recruited candidates through direct recruitment, internet mining and other creative methods, performed screening, interviewing, applicant assessment and presenting of candidates to Hiring Managers to finalize the recruitment process and assisted in hiring decision. Identified new, cost effective resources for recruitment, and tracked and reviewed effectiveness of advertisement sources.</p>
+<p><b><i>Key Accomplishments:<br />
+</i></b>• Oversaw the unemployment claims process. Independently gathered facts, prepared responses and determined appropriate company documentation and as a result gained a respectable position amongst all the employees.<br />
+• Hired over 200 employees on extremely short notice<br />
+• Carried out performance appraisals and met high standards of employee satisfaction for retention schemes</p>
+<p><b>Emerson Network Power Inc. </b>– Portland, OR. [11/2007 – 3/2010]</p>
+<p><b>Human Resources Coordinator<br />
+</b>Administered employee benefit plans including new hire orientation program, open enrollment process and wellness program. Prepared, presented and distributed employee communications, publications and announcements.</p>
+<p>• <u>General Human Resources Functions</u>: Administered policies and programs relating to all phases of human resources activity including HR planning, recruitment, training and development, employee performance evaluation and appraisals, firing processes, etc. Along with these, maintained knowledge of legal requirements and government reporting regulations affecting human resources.</p>
+<p>• <u>Administration of Employee Relocation</u>: Worked independently with candidates to manage the relocation process and coordinated all arrangements to include: house hunting trip, travel, temporary housing arrangements and movers.</p>
+<p><b><i>Key Accomplishments<br />
+</i></b>• Developed and maintained various HRIS systems to improve management of tracking of employee relations issues, leaves, corrective actions and unemployment.</p>
+<p><b>EDUCATION, TRAINING, &amp; CERTIFICATIONS<br />
+</b>B.B.A. (Honors.) – Human Resource Management, University of Clifton, Clifton Forge, VA. [2005]<br />
+PHR certification – HR Certification Institute, Pomona, NY [2006]<br />
+HRCI certification – HR Certification Institute, Pomona, NY [2006]</p>
+<p><b>COMPUTER EXPERTISE<br />
+</b>ADP  • PeopleSoft  • HRIS systems  • MS Office: Word, Excel, PowerPoint  • Visio</p>
+<p />
+</body></html><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="X-Parsed-By" content="org.apache.tika.parser.DefaultParser" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.image.ImageParser" />
+<meta name="Transparency Alpha" content="none" />
+<meta name="tiff:ImageLength" content="256" />
+<meta name="Compression CompressionTypeName" content="deflate" />
+<meta name="Dimension PixelAspectRatio" content="1.0" />
+<meta name="Data BitsPerSample" content="8 8 8" />
+<meta name="X-TIKA:origResourceName" content="Thumbnails/thumbnail.png" />
+<meta name="Data PlanarConfiguration" content="PixelInterleaved" />
+<meta name="IHDR" content="width=198, height=256, bitDepth=8, colorType=RGB, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none" />
+<meta name="Compression NumProgressiveScans" content="1" />
+<meta name="Chroma ColorSpaceType" content="RGB" />
+<meta name="Chroma BlackIsZero" content="true" />
+<meta name="Compression Lossless" content="true" />
+<meta name="width" content="198" />
+<meta name="Dimension ImageOrientation" content="Normal" />
+<meta name="X-TIKA:embedded_resource_path" content="/embedded-1" />
+<meta name="tiff:BitsPerSample" content="8 8 8" />
+<meta name="tiff:ImageWidth" content="198" />
+<meta name="Chroma NumChannels" content="3" />
+<meta name="Data SampleFormat" content="UnsignedIntegral" />
+<meta name="Content-Type" content="image/png" />
+<meta name="height" content="256" />
+<title></title>
+</head>
+<body /></html>

@@ -1,0 +1,159 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="date" content="2017-06-09T16:18:20.921818337" />
+<meta name="meta:paragraph-count" content="49" />
+<meta name="meta:word-count" content="308" />
+<meta name="Table-Count" content="1" />
+<meta name="Word-Count" content="308" />
+<meta name="generator" content="LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2" />
+<meta name="dcterms:created" content="2017-06-09T16:17:12.364103828" />
+<meta name="dcterms:modified" content="2017-06-09T16:18:20.921818337" />
+<meta name="Last-Modified" content="2017-06-09T16:18:20.921818337" />
+<meta name="nbPara" content="49" />
+<meta name="Last-Save-Date" content="2017-06-09T16:18:20.921818337" />
+<meta name="meta:object-count" content="0" />
+<meta name="meta:character-count" content="2223" />
+<meta name="Paragraph-Count" content="49" />
+<meta name="nbImg" content="0" />
+<meta name="meta:save-date" content="2017-06-09T16:18:20.921818337" />
+<meta name="modified" content="2017-06-09T16:18:20.921818337" />
+<meta name="Edit-Time" content="P0D" />
+<meta name="meta:image-count" content="0" />
+<meta name="Image-Count" content="0" />
+<meta name="nbCharacter" content="2223" />
+<meta name="nbObject" content="0" />
+<meta name="nbPage" content="2" />
+<meta name="Object-Count" content="0" />
+<meta name="nbWord" content="308" />
+<meta name="Content-Type" content="application/vnd.oasis.opendocument.text" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.DefaultParser" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.odf.OpenDocumentParser" />
+<meta name="meta:creation-date" content="2017-06-09T16:17:12.364103828" />
+<meta name="meta:table-count" content="1" />
+<meta name="Creation-Date" content="2017-06-09T16:17:12.364103828" />
+<meta name="xmpTPg:NPages" content="2" />
+<meta name="Character Count" content="2223" />
+<meta name="editing-cycles" content="1" />
+<meta name="Page-Count" content="2" />
+<meta name="nbTab" content="1" />
+<meta name="meta:page-count" content="2" />
+<title></title>
+</head>
+<body><p><b>Payton Navarro</b></p>
+<p>1 Main Street, New Cityland, CA 91010</p>
+<p>Home: (555) 322-7337 | Cell: 000-000-0000</p>
+<p>example-email@example.com</p>
+<p><b>Summary</b></p>
+<p>Proactive Administrative Executive with more than 7 years of progressively responsible experience supporting multiple C-level professionals. Strong organizational skills and an ability to manage multiple competing priorities and projects with attention to detail. Performs well with a variety of disciplines while remaining effective in a high-volume start-up environments with demanding workloads.</p>
+<p><b>Highlights</b></p>
+<table><tr>	<td><ul>	<li><p>Correspondence</p>
+</li>
+	<li><p>Client care</p>
+</li>
+	<li><p>Research</p>
+</li>
+	<li><p>Reports &amp; presentations</p>
+</li>
+	<li><p>Project management</p>
+</li>
+</ul>
+</td>	<td><ul>	<li><p>Salesforce / OpenAir</p>
+</li>
+	<li><p>MS PowerPoint Word and Excel</p>
+</li>
+	<li><p>Database management</p>
+</li>
+	<li><p>Event planning</p>
+</li>
+	<li><p>Confidentiality</p>
+</li>
+</ul>
+</td></tr>
+</table>
+<p><b>Experience</b></p>
+<p><b>Administrative Executive</b></p>
+<p><b>9/1/2011 - Current</b></p>
+<p />
+<p><b>Oasis Agency</b></p>
+<p><b>New Cityland, CA</b></p>
+<p />
+<ul>	<li><p>Maintain executive appointment schedule by planning and scheduling meetings conferences teleconferences and travel</p>
+</li>
+	<li><p>Conserve executive time by reading researching and routing correspondence and email drafting letters and documents collecting and analyzing information</p>
+</li>
+	<li><p>Provide historical reference by developing and retrieval systems and recording meeting discussions</p>
+</li>
+	<li><p>Update company department and management team's systems including Salesforce OpenAir and individual contact management tools</p>
+</li>
+</ul>
+<p />
+<p><b>Administrative Executive Assistant</b></p>
+<p><b>3/1/2010 - 10/1/2011</b></p>
+<p />
+<p><b>Street Resources Inc.</b></p>
+<p><b>New Cityland, CA</b></p>
+<p />
+<ul>	<li><p>Fielded general inquiries and transmitted to the appropriate person</p>
+</li>
+	<li><p>Received packages and coordinated with lobby security</p>
+</li>
+	<li><p>Maintained reception area conference rooms supply room and kitchen</p>
+</li>
+	<li><p>Managed calendars and appointments</p>
+</li>
+	<li><p>Prepared and edited correspondence reports and presentations</p>
+</li>
+</ul>
+<p />
+<p><b>Administrative Assistant</b></p>
+<p><b>9/1/2008 - 1/1/2010</b></p>
+<p />
+<p><b>NextPhase Advertising</b></p>
+<p><b>New Cityland, CA</b></p>
+<p />
+<ul>	<li><p>Welcomed guests and customers by greeting them in person or on the telephone; answered and directed inquiries</p>
+</li>
+	<li><p>Built customer confidence and protected operations by keeping information confidential</p>
+</li>
+	<li><p>Contributed to team effort by accomplishing assigned work as requested and on schedule</p>
+</li>
+</ul>
+<p />
+<p><b>Education</b></p>
+<p><b>Associate of Science - Administrative Assistant and Secretarial Science</b></p>
+<p><b>XXXX - XXXX</b></p>
+<p />
+<p>Allan Hancock College</p>
+<p>Santa Monica, CA</p>
+<p><b>Certification</b></p>
+<p>Microsoft Office Specialist (MOS) Expert<br />
+Microsoft Learning</p>
+<p />
+</body></html><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="X-Parsed-By" content="org.apache.tika.parser.DefaultParser" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.image.ImageParser" />
+<meta name="Transparency Alpha" content="none" />
+<meta name="tiff:ImageLength" content="256" />
+<meta name="Compression CompressionTypeName" content="deflate" />
+<meta name="Dimension PixelAspectRatio" content="1.0" />
+<meta name="Data BitsPerSample" content="8 8 8" />
+<meta name="X-TIKA:origResourceName" content="Thumbnails/thumbnail.png" />
+<meta name="Data PlanarConfiguration" content="PixelInterleaved" />
+<meta name="IHDR" content="width=198, height=256, bitDepth=8, colorType=RGB, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none" />
+<meta name="Compression NumProgressiveScans" content="1" />
+<meta name="Chroma ColorSpaceType" content="RGB" />
+<meta name="Chroma BlackIsZero" content="true" />
+<meta name="Compression Lossless" content="true" />
+<meta name="width" content="198" />
+<meta name="Dimension ImageOrientation" content="Normal" />
+<meta name="X-TIKA:embedded_resource_path" content="/embedded-1" />
+<meta name="tiff:BitsPerSample" content="8 8 8" />
+<meta name="tiff:ImageWidth" content="198" />
+<meta name="Chroma NumChannels" content="3" />
+<meta name="Data SampleFormat" content="UnsignedIntegral" />
+<meta name="Content-Type" content="image/png" />
+<meta name="height" content="256" />
+<title></title>
+</head>
+<body /></html>

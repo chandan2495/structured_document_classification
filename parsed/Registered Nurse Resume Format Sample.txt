@@ -1,0 +1,128 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="date" content="2017-06-09T18:31:28.699030610" />
+<meta name="meta:paragraph-count" content="22" />
+<meta name="meta:word-count" content="400" />
+<meta name="Table-Count" content="2" />
+<meta name="Word-Count" content="400" />
+<meta name="generator" content="LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2" />
+<meta name="dcterms:created" content="2017-06-09T18:30:17.504598803" />
+<meta name="dcterms:modified" content="2017-06-09T18:31:28.699030610" />
+<meta name="Last-Modified" content="2017-06-09T18:31:28.699030610" />
+<meta name="nbPara" content="22" />
+<meta name="Last-Save-Date" content="2017-06-09T18:31:28.699030610" />
+<meta name="meta:object-count" content="0" />
+<meta name="meta:character-count" content="2759" />
+<meta name="Paragraph-Count" content="22" />
+<meta name="nbImg" content="0" />
+<meta name="meta:save-date" content="2017-06-09T18:31:28.699030610" />
+<meta name="modified" content="2017-06-09T18:31:28.699030610" />
+<meta name="Edit-Time" content="P0D" />
+<meta name="meta:image-count" content="0" />
+<meta name="Image-Count" content="0" />
+<meta name="nbCharacter" content="2759" />
+<meta name="nbObject" content="0" />
+<meta name="nbPage" content="2" />
+<meta name="Object-Count" content="0" />
+<meta name="nbWord" content="400" />
+<meta name="Content-Type" content="application/vnd.oasis.opendocument.text" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.DefaultParser" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.odf.OpenDocumentParser" />
+<meta name="meta:creation-date" content="2017-06-09T18:30:17.504598803" />
+<meta name="meta:table-count" content="2" />
+<meta name="Creation-Date" content="2017-06-09T18:30:17.504598803" />
+<meta name="xmpTPg:NPages" content="2" />
+<meta name="Character Count" content="2759" />
+<meta name="editing-cycles" content="1" />
+<meta name="Page-Count" content="2" />
+<meta name="nbTab" content="2" />
+<meta name="meta:page-count" content="2" />
+<title></title>
+</head>
+<body><p />
+<table><tr>	<td><p><b>Sara</b> <b>Oliver, RN</b></p>
+</td>	<td><p>543 Example Drive | Longmont, CO 66987<br />
+(000) 854-5214 | oliver @ email . com</p>
+</td></tr>
+</table>
+<p />
+<p><b>REGISTERED NURSE</b></p>
+<p><i>Continually enhancing the satisfaction level of patients and families.</i></p>
+<p><b>Performance Summary</b></p>
+<p>Highly energetic and dedicated nursing professional with 9+ years’ progressive experience in hospital, sub-acute and other healthcare settings. Track record of providing compassionate nursing services to patients of different backgrounds. Highly skilled in assessing patient’s physical and mental health by conducting counseling sessions, and evaluating and treating patients using the advanced technologies and practices. Special talent for:</p>
+<p>• Formulating plans of care and establishing priorities necessary to achieve outcomes<br />
+• Evaluating care-plan progress to see if amendments need to be applied to current plan</p>
+<p><b>Professional Skills</b></p>
+<table><tr>	<td><p>• Physical Assessment<br />
+• Blood Glucose/Vital Signs<br />
+• Catheter Management<br />
+• Patient and Family Education</p>
+</td>	<td><p>• Medication Dispensing<br />
+• Care Documentation and Charting<br />
+• Cast/Pin/Traction Care<br />
+• Wound Dressing and Care</p>
+</td></tr>
+</table>
+<p><b>Professional Experience and Achievements</b></p>
+<p>Colorado Sanitarium – Longmont, CO | Feb 2008 – Present<br />
+<b>Registered Nurse<br />
+</b>• Interact with patients to figure out their physical and psychological needs<br />
+• Identify patient actual and potential problems<br />
+• Devise treatment plans tailored to requirements<br />
+• Maintain safety and precaution standards<br />
+• Document all patients’ records and procedures<br />
+• Collaborate with appropriate doctor with respect to treatment plans<br />
+• Provide information to patients and families about conditions and appropriate plans of action</p>
+<p><i><u>Selected Accomplishments<br />
+</u></i>• Achieved management recognition award due to excellence in nursing practices<br />
+• Supervised night shift for three months as the only RN on duty<br />
+• Devised a set of interactive activities that helped patients open up to staff for ease of interaction</p>
+<p>Saint Luke’s Hospital – Kansas City, MO | Apr 2006 – Feb 2008<br />
+<b>Nursing Assistant<br />
+</b>• Assisted the RN in the efficient delivery of patient care<br />
+• Provided basic patient care including bathing, nutrition, and positioning<br />
+• Transported patients and equipment<br />
+• Set-up and maintained patient rooms<br />
+• Reordered and stocked supplies</p>
+<p><i><u>Selected Accomplishments<br />
+</u></i>• Introduced new procedures of personal care which resulted in 30% increased satisfation of patients<br />
+• Organized OB/GYN ward effectively utilizing the current equipment and protocols</p>
+<p><b>Education, Licensure and Certification</b></p>
+<p>Longmont Nursing College, Longmont, CO | 2006<br />
+BSc in Nursing</p>
+<p>Colorado Registered Nurse | 2007</p>
+<p>Basic Life Support with Automatic External Defibrillator | 2005</p>
+<p>Certified Nursing Assistant | 2005</p>
+<p><b>ADDITIONAL CAPABILITIES</b></p>
+<p>• Good time management skills<br />
+• Excellent understanding of medical terminology and codes<br />
+• Bilingual: English and Spanish</p>
+<p />
+</body></html><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="X-Parsed-By" content="org.apache.tika.parser.DefaultParser" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.image.ImageParser" />
+<meta name="Transparency Alpha" content="none" />
+<meta name="tiff:ImageLength" content="256" />
+<meta name="Compression CompressionTypeName" content="deflate" />
+<meta name="Dimension PixelAspectRatio" content="1.0" />
+<meta name="Data BitsPerSample" content="8 8 8" />
+<meta name="X-TIKA:origResourceName" content="Thumbnails/thumbnail.png" />
+<meta name="Data PlanarConfiguration" content="PixelInterleaved" />
+<meta name="IHDR" content="width=198, height=256, bitDepth=8, colorType=RGB, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none" />
+<meta name="Compression NumProgressiveScans" content="1" />
+<meta name="Chroma ColorSpaceType" content="RGB" />
+<meta name="Chroma BlackIsZero" content="true" />
+<meta name="Compression Lossless" content="true" />
+<meta name="width" content="198" />
+<meta name="Dimension ImageOrientation" content="Normal" />
+<meta name="X-TIKA:embedded_resource_path" content="/embedded-1" />
+<meta name="tiff:BitsPerSample" content="8 8 8" />
+<meta name="tiff:ImageWidth" content="198" />
+<meta name="Chroma NumChannels" content="3" />
+<meta name="Data SampleFormat" content="UnsignedIntegral" />
+<meta name="Content-Type" content="image/png" />
+<meta name="height" content="256" />
+<title></title>
+</head>
+<body /></html>

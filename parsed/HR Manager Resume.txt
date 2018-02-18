@@ -1,0 +1,122 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="date" content="2017-06-09T18:13:43.686427831" />
+<meta name="meta:paragraph-count" content="24" />
+<meta name="meta:word-count" content="378" />
+<meta name="Table-Count" content="1" />
+<meta name="Word-Count" content="378" />
+<meta name="generator" content="LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2" />
+<meta name="dcterms:created" content="2017-06-09T18:11:33.194498545" />
+<meta name="dcterms:modified" content="2017-06-09T18:13:43.686427831" />
+<meta name="Last-Modified" content="2017-06-09T18:13:43.686427831" />
+<meta name="nbPara" content="24" />
+<meta name="Last-Save-Date" content="2017-06-09T18:13:43.686427831" />
+<meta name="meta:object-count" content="0" />
+<meta name="meta:character-count" content="2728" />
+<meta name="Paragraph-Count" content="24" />
+<meta name="nbImg" content="0" />
+<meta name="meta:save-date" content="2017-06-09T18:13:43.686427831" />
+<meta name="modified" content="2017-06-09T18:13:43.686427831" />
+<meta name="Edit-Time" content="P0D" />
+<meta name="meta:image-count" content="0" />
+<meta name="Image-Count" content="0" />
+<meta name="nbCharacter" content="2728" />
+<meta name="nbObject" content="0" />
+<meta name="nbPage" content="2" />
+<meta name="Object-Count" content="0" />
+<meta name="nbWord" content="378" />
+<meta name="Content-Type" content="application/vnd.oasis.opendocument.text" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.DefaultParser" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.odf.OpenDocumentParser" />
+<meta name="meta:creation-date" content="2017-06-09T18:11:33.194498545" />
+<meta name="meta:table-count" content="1" />
+<meta name="Creation-Date" content="2017-06-09T18:11:33.194498545" />
+<meta name="xmpTPg:NPages" content="2" />
+<meta name="Character Count" content="2728" />
+<meta name="editing-cycles" content="1" />
+<meta name="Page-Count" content="2" />
+<meta name="nbTab" content="1" />
+<meta name="meta:page-count" content="2" />
+<title></title>
+</head>
+<body><p><b>EMILY JOHNSON</b></p>
+<p>710 Meadow Pkwy NE ● Minneapolis, MN 55432<br />
+Cellular: (000) 000-1223 ● Email: em_johnson @ email . com</p>
+<p />
+<p><b>HUMAN RESOURCES MANAGER</b></p>
+<p>Results-oriented and dynamic leader with 10+ years’ successful track record in:</p>
+<table><tr>	<td><p>• Hiring and Recruiting</p>
+</td>	<td><p>• Counseling/Coaching</p>
+</td></tr>
+<tr>	<td><p>• Performance Management</p>
+</td>	<td><p>• Training and Development</p>
+</td></tr>
+<tr>	<td><p>• Compensation and Benefits</p>
+</td>	<td><p>• Succession Planning</p>
+</td></tr>
+<tr>	<td><p>• Employee Evaluations</p>
+</td>	<td><p>• Labor Management</p>
+</td></tr>
+</table>
+<p><b>Highlights</b></p>
+<p>• Adaptable and approachable with incomparable interpersonal skills<br />
+• Hands-on experience in application of HR concepts and principles that learned through broad based experiences and academics<br />
+• Recognized for making effective decisions independently, resolving all kinds of conflicts, organizing work and handling priorities<br />
+• Outstanding verbal and written communication skills with ability to diplomatically handle problems<br />
+• Track record of maintaining confidentiality and dealing with sensitive information and situations</p>
+<p><b>EMPLOYMENT HISTORY</b></p>
+<p><b>Human Resource Manager</b> | Oct 2010 – Present<br />
+<b>General Electric Company</b> – Littleton, MA</p>
+<p>• Handle all queries and conflicts of internal employees related to HR issues using excellent problem solving skills<br />
+• Coordinate with external organizations for provision of skillful new hires and organizational development<br />
+• Formulate and improve multiple HR policies and process in compliance with the state employment laws<br />
+• Manage employee advocacy and engagement programs<br />
+• Provide orientations and HR fundamental training<br />
+• Manage employee relation, performance management, evaluation and talent acquisition</p>
+<p><b>HR Manager</b> | Jan 2008 – Oct 2010<br />
+<b>Medtronic</b> – New Orleans, LA</p>
+<p>• Tactfully advised management at different levels for strict and consistent application and compliance of company policies, standard procedures and practices<br />
+• Maintained and dealt with confidential data carefully and sensibly<br />
+• Monitored performance management system and enforced performance improvement of low performing employees<br />
+• Reviewed evaluation forms and files, approved/disapproved recommendations made by lower management for decisions like employee promotions, appraisals, bonuses and benefits</p>
+<p><b>Assistant Human Resources Manager</b> | Mar 2006 – Jan 2008<br />
+<b>Pinnacle Entertainment</b> – Bossier City, LA</p>
+<p>• Worked with HR Director and senior management for apt staffing<br />
+• Ensured every positions’ job specifications and requirements were properly defined<br />
+• Interviewed applicants for manager’s and executive positions<br />
+• Guided the hiring teams for effective application of talent acquisition plans</p>
+<p><b>EDUCATION</b></p>
+<p>Texas State University of Management Sciences – Texas, TX | 2005<br />
+Master of Business Administration<br />
+Specialization: HRM</p>
+<p>University of Maryland – Baltimore, MD | 2003<br />
+Bachelor’s Degree in Human Resources Management</p>
+<p />
+</body></html><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="X-Parsed-By" content="org.apache.tika.parser.DefaultParser" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.image.ImageParser" />
+<meta name="Transparency Alpha" content="none" />
+<meta name="tiff:ImageLength" content="256" />
+<meta name="Compression CompressionTypeName" content="deflate" />
+<meta name="Dimension PixelAspectRatio" content="1.0" />
+<meta name="Data BitsPerSample" content="8 8 8" />
+<meta name="X-TIKA:origResourceName" content="Thumbnails/thumbnail.png" />
+<meta name="Data PlanarConfiguration" content="PixelInterleaved" />
+<meta name="IHDR" content="width=198, height=256, bitDepth=8, colorType=RGB, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none" />
+<meta name="Compression NumProgressiveScans" content="1" />
+<meta name="Chroma ColorSpaceType" content="RGB" />
+<meta name="Chroma BlackIsZero" content="true" />
+<meta name="Compression Lossless" content="true" />
+<meta name="width" content="198" />
+<meta name="Dimension ImageOrientation" content="Normal" />
+<meta name="X-TIKA:embedded_resource_path" content="/embedded-1" />
+<meta name="tiff:BitsPerSample" content="8 8 8" />
+<meta name="tiff:ImageWidth" content="198" />
+<meta name="Chroma NumChannels" content="3" />
+<meta name="Data SampleFormat" content="UnsignedIntegral" />
+<meta name="Content-Type" content="image/png" />
+<meta name="height" content="256" />
+<title></title>
+</head>
+<body /></html>

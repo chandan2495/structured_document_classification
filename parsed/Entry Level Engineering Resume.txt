@@ -1,0 +1,128 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="date" content="2011-09-20T05:53:20Z" />
+<meta name="pdf:PDFVersion" content="1.5" />
+<meta name="xmp:CreatorTool" content="Microsoft® Office Word 2007" />
+<meta name="access_permission:modify_annotations" content="true" />
+<meta name="access_permission:can_print_degraded" content="true" />
+<meta name="dcterms:created" content="2011-09-20T05:53:20Z" />
+<meta name="Last-Modified" content="2011-09-20T05:53:20Z" />
+<meta name="dcterms:modified" content="2011-09-20T05:53:20Z" />
+<meta name="dc:format" content="application/pdf; version=1.5" />
+<meta name="Last-Save-Date" content="2011-09-20T05:53:20Z" />
+<meta name="pdf:docinfo:creator_tool" content="Microsoft® Office Word 2007" />
+<meta name="access_permission:fill_in_form" content="true" />
+<meta name="pdf:docinfo:modified" content="2011-09-20T05:53:20Z" />
+<meta name="meta:save-date" content="2011-09-20T05:53:20Z" />
+<meta name="pdf:encrypted" content="false" />
+<meta name="modified" content="2011-09-20T05:53:20Z" />
+<meta name="Content-Type" content="application/pdf" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.DefaultParser" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.pdf.PDFParser" />
+<meta name="meta:creation-date" content="2011-09-20T05:53:20Z" />
+<meta name="created" content="Tue Sep 20 11:23:20 IST 2011" />
+<meta name="access_permission:extract_for_accessibility" content="true" />
+<meta name="access_permission:assemble_document" content="true" />
+<meta name="xmpTPg:NPages" content="2" />
+<meta name="Creation-Date" content="2011-09-20T05:53:20Z" />
+<meta name="access_permission:extract_content" content="true" />
+<meta name="access_permission:can_print" content="true" />
+<meta name="producer" content="Microsoft® Office Word 2007" />
+<meta name="access_permission:can_modify" content="true" />
+<meta name="pdf:docinfo:producer" content="Microsoft® Office Word 2007" />
+<meta name="pdf:docinfo:created" content="2011-09-20T05:53:20Z" />
+<title></title>
+</head>
+<body><div class="page"><p />
+<p> 
+</p>
+<p> 
+</p>
+<p>JAMES WILSON  
+999 Main Street  Any Town, NY  99999 
+</p>
+<p>999-999-9999 
+email@yahoo.com 
+</p>
+<p> 
+ 
+Effective cross functional team leader and engineering manager responsible for driving 
+process, product, and people improvements and for key activities related to the design and 
+manufacture of components and finished goods.  Able to lead a skilled and knowledgeable 
+staff in engineering and manufacturing technology for the purpose of minimizing product cost 
+and maximizing product manufacturing efficiency through the use of existing and new 
+technologies. 
+ cross-functional team leader:  cost reduction, process improvement, product launch 
+ 15+ years’ engineering manager in manufacturing environment 
+ sheet metal, cold-formed steel, forged and cast aluminum products, electrical controls:  
+</p>
+<p>wheels, conveyors, industrial ovens 
+ 3d solid design, finite element analysis, computer programming, MS Office 
+ Strong leadership, interpersonal, and customer service skills 
+ master’s and bachelor’s degrees in engineering 
+ 
+ 
+EMPLOYMENT 
+ABC INC, 2006-2009, Any Town, NY 
+Entry- Level Engineering 
+ 
+ Checked calculations and reports for loading conditions. 
+ Verified staking data to PLS-CADD models. 
+ Created PLS-CADD models for transmission line towers. 
+ 
+XYZ CORP, 2004-2005, Any Town, NY 
+Entry Level Chemical Engineering Coop 
+</p>
+<p> 
+ Worked with a mechanical engineer on a capital project to be installed in 2010 to replace 
+</p>
+<p>a gaseous chlorination injection system with a bleach injection system. This will improve 
+the stations safety environment by removing the hazards of the gaseous chlorine on the 
+site. 
+</p>
+<p> Calculated the actual minimum operating temperatures of the Northeast power plants so 
+that they could lower their load during off-peak hours and save money when generation 
+and the price of electricity are low. 
+</p>
+<p> Developed an excel program to monitor the water chemistry of the Northeast power 
+plants to insure that they are within the action level limits set by the Electric Power 
+Research Institute. This program also helped the stations get approval for upgrades and 
+repairs on equipment in their water cycle. 
+</p>
+<p> Inspected various equipment at the power station during their spring outage including 
+the selective catalytic reducer, the induced draft fans, the six absorbers and various 
+other equipment throughout the plant, and wrote inspection reports of the work that </p>
+<p />
+</div>
+<div class="page"><p />
+<p> 
+</p>
+<p> 
+</p>
+<p>needed to be done on this equipment. 
+ Updated a daily report that would monitor the differential pressure across the air heaters 
+</p>
+<p>to make sure they were not being plugged with ammonium bisulfate, and a report that 
+monitored the cost effectiveness of the selective catalytic reducers across the 
+Northeast. 
+</p>
+<p> Worked with various contractors to do projects and other task such as having test run on 
+the cooling water and have plugs sent through the condenser tubes to clean them and 
+improve the condensers efficiency. 
+</p>
+<p> 
+BCD INC, 2001-2004, ANY Town, NY 
+Entry Level Engineering Tech 
+ 
+ Field work consisting of taking measurements and using GPS unit. 
+ Work on maintenance contracts, drawing plans in Micro Station. 
+ Secretarial work.  
+ Attend regular design meetings.  
+ Inspection of road rehabilitation projects.   
+ 
+EDUCATION 
+ M.S. Engineering, University of New York, NY  
+ B.S.C.E.--Structures, New York State University, New York, NY </p>
+<p />
+</div>
+</body></html>

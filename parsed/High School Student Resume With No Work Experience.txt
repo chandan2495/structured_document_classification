@@ -1,0 +1,66 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="date" content="2017-03-14T07:44:00Z" />
+<meta name="cp:revision" content="1" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.DefaultParser" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.microsoft.ooxml.OOXMLParser" />
+<meta name="dc:language" content="en-US" />
+<meta name="meta:creation-date" content="2017-03-14T07:32:00Z" />
+<meta name="extended-properties:Application" content="Microsoft Macintosh Word" />
+<meta name="Creation-Date" content="2017-03-14T07:32:00Z" />
+<meta name="dcterms:created" content="2017-03-14T07:32:00Z" />
+<meta name="language" content="en-US" />
+<meta name="Last-Modified" content="2017-03-14T07:44:00Z" />
+<meta name="dcterms:modified" content="2017-03-14T07:44:00Z" />
+<meta name="Last-Save-Date" content="2017-03-14T07:44:00Z" />
+<meta name="Template" content="Normal.dotm" />
+<meta name="Revision-Number" content="1" />
+<meta name="extended-properties:Template" content="Normal.dotm" />
+<meta name="meta:save-date" content="2017-03-14T07:44:00Z" />
+<meta name="Application-Name" content="Microsoft Macintosh Word" />
+<meta name="modified" content="2017-03-14T07:44:00Z" />
+<meta name="Content-Type" content="application/vnd.openxmlformats-officedocument.wordprocessingml.document" />
+<title></title>
+</head>
+<body><h1>HIGH SCHOOL STUDENT RESUME	Youremail@gmail.com  Phone</h1>
+<p>City, State	LinkedIn URL, Website</p>
+<p><b /></p>
+<p>Motivated student (3.6/4.0) who demonstrates strong work ethic and creative ability. Seeking to apply my graphic design skills and artistic drive as a summer intern at your company. Will leverage proven experience as a competent designer to contribute to company goals and needs. </p>
+<p />
+<h1>Education</h1>
+<p />
+<p><b>Santa Monica High School, Santa Monica, CA</b></p>
+<p>Senior</p>
+<p class="list_Paragraph">· <a name="_GoBack" /><b>GPA: </b>3.6 / 4.0</p>
+<p class="list_Paragraph">· <a name="_GoBack" /><b>Relevant Coursework:</b> Intro to Graphic Design, AP Art, Yearbook, Computer Applications </p>
+<p class="list_Paragraph">· <b>Honors:</b> Member of the National Honors Society and National Art Education Association </p>
+<p class="list_Paragraph">· <b>Clubs:</b> Yearbook Club, Santa Monica Newspaper, Spanish club</p>
+<h1 />
+<h1>Major Achievements</h1>
+<p><b>Yearbook Club</b></p>
+<p><i>Yearbook Design Team Lead									      2015 - Present</i></p>
+<p class="list_Paragraph">· Created a Yearbook logo designed to incorporate school mascot and colors; opted to use coated paper in 2016, which improved photo quality and increased profits by 5%.</p>
+<p class="list_Paragraph">· Arrange all club photos and pages to correspond to yearbook theme.</p>
+<p class="list_Paragraph">· Trained and supervised 2 sophomore students in graphic design. </p>
+<p><b /></p>
+<p><b>Santa Monica Newspaper</b></p>
+<p><i>Graphic Designer									                2015 - Present </i></p>
+<p class="list_Paragraph">· Procured advertising for school paper, saving organization 25% in costs.</p>
+<p class="list_Paragraph">· Edited and curated photos used for school paper; increasing readership by 15%.  </p>
+<p class="list_Paragraph">· Custom design page layouts to fit articles, photos, and advertisements into strict format.     </p>
+<p class="list_Paragraph">· Contributed to school’s online publication by designing page layouts to accommodate mobile screens.</p>
+<p />
+<h1 />
+<h1>Additional Skills</h1>
+<p class="list_Paragraph">· Proficient in Photoshop and Adobe Creative Suite</p>
+<p class="list_Paragraph">· Basic knowledge of HTML</p>
+<p class="list_Paragraph">· Basic knowledge of Adobe Dreamweaver</p>
+<p class="list_Paragraph">· Great photographer </p>
+<p class="list_Paragraph">· Keen eye for aesthetics with good understanding of image gradients </p>
+<p class="list_Paragraph">· Intermediate speaking level in Spanish</p>
+<h1 />
+<h1>Awards, Honors, and Honorary Mentions</h1>
+<p class="list_Paragraph">· Nominated for Macmillan Prize for Illustration in 2016</p>
+<p class="list_Paragraph">· Submitted artwork to Ocean Awareness Student Art Contest 2016</p>
+<p class="list_Paragraph">· Came in 2nd place in the Applied Arts 2016 Student Awards for submitting graphic design work under the category of Advertising. </p>
+</body></html>

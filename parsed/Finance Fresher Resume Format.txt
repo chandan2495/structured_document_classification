@@ -1,0 +1,136 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="date" content="2017-06-09T17:35:20.264642038" />
+<meta name="meta:paragraph-count" content="47" />
+<meta name="meta:word-count" content="285" />
+<meta name="Table-Count" content="1" />
+<meta name="Word-Count" content="285" />
+<meta name="generator" content="LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2" />
+<meta name="dcterms:created" content="2017-06-09T17:32:36.594894143" />
+<meta name="dcterms:modified" content="2017-06-09T17:35:20.264642038" />
+<meta name="Last-Modified" content="2017-06-09T17:35:20.264642038" />
+<meta name="nbPara" content="47" />
+<meta name="Last-Save-Date" content="2017-06-09T17:35:20.264642038" />
+<meta name="meta:object-count" content="0" />
+<meta name="meta:character-count" content="2003" />
+<meta name="Paragraph-Count" content="47" />
+<meta name="nbImg" content="0" />
+<meta name="meta:save-date" content="2017-06-09T17:35:20.264642038" />
+<meta name="modified" content="2017-06-09T17:35:20.264642038" />
+<meta name="Edit-Time" content="P0D" />
+<meta name="meta:image-count" content="0" />
+<meta name="Image-Count" content="0" />
+<meta name="nbCharacter" content="2003" />
+<meta name="nbObject" content="0" />
+<meta name="nbPage" content="2" />
+<meta name="Object-Count" content="0" />
+<meta name="nbWord" content="285" />
+<meta name="Content-Type" content="application/vnd.oasis.opendocument.text" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.DefaultParser" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.odf.OpenDocumentParser" />
+<meta name="meta:creation-date" content="2017-06-09T17:32:36.594894143" />
+<meta name="meta:table-count" content="1" />
+<meta name="Creation-Date" content="2017-06-09T17:32:36.594894143" />
+<meta name="xmpTPg:NPages" content="2" />
+<meta name="Character Count" content="2003" />
+<meta name="editing-cycles" content="1" />
+<meta name="Page-Count" content="2" />
+<meta name="nbTab" content="1" />
+<meta name="meta:page-count" content="2" />
+<title></title>
+</head>
+<body><p><b>AMJAD KHAN</b></p>
+<p><b>CONTACTNo: - 9876543210<u>.</u></b></p>
+<p><b>12/1 N S ROAD</b></p>
+<p><b>E-MAIL:- AMJADKHAN@GMAIL.COM</b></p>
+<p><b>HYDERABAD, A P – 500031.</b></p>
+<p />
+<p><b><u>Objective:</u></b></p>
+<p>To work for a professional organization which offers challenging opportunities, an excellent cooperative working environment to utilize my professional and technical knowledge, enabling me to improve my abilities, develop my functionality, and improve the organization plans and work procedures.</p>
+<p />
+<p />
+<p><b><u>Academic Qualification:</u></b></p>
+<p>·<b>Master Of Business Administration</b>, Hyderabad Presidency P.G Center</p>
+<p>Osmania University (2010-2012)</p>
+<p>  Specialization in<b>Finance</b></p>
+<p>·  <b>Bachelor Of Commerce</b>, Govt. City College</p>
+<p> Osmania University (2007-2010)</p>
+<p>·<b>CEC</b>, Govt. City College</p>
+<p>Board of Intermediate (2005-2007)</p>
+<p>· <b>SSC</b>, unique High School</p>
+<p>Board of Secondary (2005)</p>
+<p />
+<p><b><u>M.B.A Project Detail:</u></b></p>
+<p>·        A study on <b>Equity Analysis </b>of Cement Sector at <b>India Cement Investment Services Limited</b>          to Study the equity analysis and obtain the knowledge of stock market, analyzing company data. Finding which stock is better for investor to invest in stock market. Conclusions are brought out which company’s shares would be best for an investor to invest. With the help of companies data. I got an in-depth knowledge about the equity analysis.</p>
+<p />
+<p><b><u>TECHNICAL PROFICIENCY</u></b>:</p>
+<p>·Operation Systems <b>:</b> Dos, Windows XP, Windows 7</p>
+<p>·Microsoft Office (word, excel, power point)</p>
+<p>·Accounting Packages <b>:</b> Tally ERP 9,  </p>
+<p>·Typing Speed 35-40 Wpm.</p>
+<p />
+<p><b><u>PERSONAL ABILITY:</u></b></p>
+<p>·Good Communication Skills</p>
+<p>·Able to Work Independently And With The Team</p>
+<p>·Hardworking, goal-oriented, Adaptive, Sincere and Supportive</p>
+<p>·Fast learning capability</p>
+<p />
+<p><b><u>PERSONAL PROFILE:</u></b></p>
+<p />
+<table><tr>	<td><p>Name</p>
+</td>	<td><p>:       AMJAD KHAN</p>
+</td></tr>
+<tr>	<td><p>Father’s Name</p>
+</td>	<td><p>:       GABBAR KHAN</p>
+</td></tr>
+<tr>	<td><p>Date of Birth</p>
+</td>	<td><p>:       21-02-1990</p>
+</td></tr>
+<tr>	<td><p>Nationality</p>
+</td>	<td><p>:       Indian.</p>
+</td></tr>
+<tr>	<td><p>Marital Statu</p>
+</td>	<td><p>:       Unmarried.</p>
+</td></tr>
+<tr>	<td><p>Languages Known</p>
+</td>	<td><p>:       English, Hindi and Urdu.</p>
+</td></tr>
+<tr>	<td><p>Hobbies &amp; Interest</p>
+</td>	<td><p>:       playing cricket, Watching Movies</p>
+</td></tr>
+</table>
+<p>I hereby declare that the above-mentioned information is true and correct and I bear the responsibility for the correctness of the above-mentioned particulars.</p>
+<p />
+<p />
+<p />
+<p> Place<b>:</b>  HYDERABAD</p>
+<p><b>(AMJAD KHAN)</b></p>
+<p />
+</body></html><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="X-Parsed-By" content="org.apache.tika.parser.DefaultParser" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.image.ImageParser" />
+<meta name="Transparency Alpha" content="none" />
+<meta name="tiff:ImageLength" content="256" />
+<meta name="Compression CompressionTypeName" content="deflate" />
+<meta name="Dimension PixelAspectRatio" content="1.0" />
+<meta name="Data BitsPerSample" content="8 8 8" />
+<meta name="X-TIKA:origResourceName" content="Thumbnails/thumbnail.png" />
+<meta name="Data PlanarConfiguration" content="PixelInterleaved" />
+<meta name="IHDR" content="width=198, height=256, bitDepth=8, colorType=RGB, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none" />
+<meta name="Compression NumProgressiveScans" content="1" />
+<meta name="Chroma ColorSpaceType" content="RGB" />
+<meta name="Chroma BlackIsZero" content="true" />
+<meta name="Compression Lossless" content="true" />
+<meta name="width" content="198" />
+<meta name="Dimension ImageOrientation" content="Normal" />
+<meta name="X-TIKA:embedded_resource_path" content="/embedded-1" />
+<meta name="tiff:BitsPerSample" content="8 8 8" />
+<meta name="tiff:ImageWidth" content="198" />
+<meta name="Chroma NumChannels" content="3" />
+<meta name="Data SampleFormat" content="UnsignedIntegral" />
+<meta name="Content-Type" content="image/png" />
+<meta name="height" content="256" />
+<title></title>
+</head>
+<body /></html>

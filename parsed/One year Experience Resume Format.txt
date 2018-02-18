@@ -1,0 +1,162 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="date" content="2017-06-09T16:53:22.879552125" />
+<meta name="meta:paragraph-count" content="64" />
+<meta name="meta:word-count" content="248" />
+<meta name="Table-Count" content="1" />
+<meta name="Word-Count" content="248" />
+<meta name="generator" content="LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2" />
+<meta name="dcterms:created" content="2017-06-09T16:51:24.438772195" />
+<meta name="dcterms:modified" content="2017-06-09T16:53:22.879552125" />
+<meta name="Last-Modified" content="2017-06-09T16:53:22.879552125" />
+<meta name="nbPara" content="64" />
+<meta name="Last-Save-Date" content="2017-06-09T16:53:22.879552125" />
+<meta name="meta:object-count" content="0" />
+<meta name="meta:character-count" content="1607" />
+<meta name="Paragraph-Count" content="64" />
+<meta name="nbImg" content="0" />
+<meta name="meta:save-date" content="2017-06-09T16:53:22.879552125" />
+<meta name="modified" content="2017-06-09T16:53:22.879552125" />
+<meta name="Edit-Time" content="P0D" />
+<meta name="meta:image-count" content="0" />
+<meta name="Image-Count" content="0" />
+<meta name="nbCharacter" content="1607" />
+<meta name="nbObject" content="0" />
+<meta name="nbPage" content="3" />
+<meta name="Object-Count" content="0" />
+<meta name="nbWord" content="248" />
+<meta name="Content-Type" content="application/vnd.oasis.opendocument.text" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.DefaultParser" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.odf.OpenDocumentParser" />
+<meta name="meta:creation-date" content="2017-06-09T16:51:24.438772195" />
+<meta name="meta:table-count" content="1" />
+<meta name="Creation-Date" content="2017-06-09T16:51:24.438772195" />
+<meta name="xmpTPg:NPages" content="3" />
+<meta name="Character Count" content="1607" />
+<meta name="editing-cycles" content="1" />
+<meta name="Page-Count" content="3" />
+<meta name="nbTab" content="1" />
+<meta name="meta:page-count" content="3" />
+<title></title>
+</head>
+<body><p />
+<h3> One year Experience Resume</h3>
+<p />
+<p><b>RANI NAYAK</b></p>
+<p>12/1 N S Road,</p>
+<p>Nerul, Navi Mumbai - 420123</p>
+<p>Mobile: 9876543210</p>
+<p>Email: raninayak@gmail.com</p>
+<p />
+<p><b>OBJECTIVE:</b></p>
+<p>Aiming to achieve a challenging &amp; successful career where I can make a significant contribution using my innovative ideas, knowledge, skills and experience with the objective of development &amp; growth of the Organization.</p>
+<p />
+<p><b>ACADEMIC QUALIFICATION:</b></p>
+<p />
+<p><b>Specialization: </b>B.E. in Information Technology at Vidyalankar Institute of Technology, Wadala, Mumbai.</p>
+<p />
+<p><div><table><tr>	<td> Qualification </td>	<td> Specialization </td>	<td> Board </td>	<td> Year Of Passing </td>	<td> Percentage </td>	<td> Class </td></tr>
+<tr>	<td> B.E. </td>	<td> Information Technology </td>	<td> Mumbai </td>	<td> 2011 </td>	<td> 60.20% </td>	<td> 1st Class </td></tr>
+<tr>	<td> Diploma </td>	<td> Computer Technology </td>	<td> M.S.B.T.E. </td>	<td> 2007 </td>	<td> 62.88% </td>	<td> 1st Class </td></tr>
+<tr>	<td> S.S.C </td>	<td> - </td>	<td> Maharashtra </td>	<td> 2003 </td>	<td> 67.73% </td>	<td> 1st Class </td></tr>
+</table>
+</div>
+</p>
+<p />
+<p />
+<p />
+<p />
+<p />
+<p><b>EXPERIENCE:</b></p>
+<ul>	<li><p>Worked in the Gray Matrix Solutions as a Front-End Developer for 6 Months</p>
+</li>
+	<li><p> Worked in the D.N.A. Newspaper as a Data Validation for 6 Months.</p>
+</li>
+</ul>
+<p />
+<p />
+<p><b>EXPERIENCE SKILLS:</b></p>
+<ul>	<li><p>Having Knowledge of HTML, CSS &amp; Photoshop.</p>
+</li>
+</ul>
+<p />
+<p><b>TECHNICAL SKILLS:</b></p>
+<ul>	<li><p>Languages: C, C++, JAVA, HTML, ASP, VISUAL BASIC, J2ME.</p>
+</li>
+	<li><p>Databases: DBMS, ORACLE, MS-ACCESS..</p>
+</li>
+</ul>
+<p />
+<p><b>EXTRA- CURRICULAR ACTIVITIES:</b></p>
+<ul>	<li><p>Participated in SOFTEX Feast organized in VPM Polytechnic.</p>
+</li>
+	<li><p>Attended Dale Carnegie Training.</p>
+</li>
+	<li><p>Completed MS-CIT Course with Distinction.</p>
+</li>
+</ul>
+<p />
+<p><b>ADDITIONAL INFORMATION:</b></p>
+<ul>	<li><p>Hobbies:</p>
+</li>
+</ul>
+<ul>	<li><p>Surfing on the Internet</p>
+</li>
+	<li><p>Listening Music</p>
+</li>
+	<li><p>Interacting with People etc…</p>
+</li>
+</ul>
+<p />
+<p><b>PERSONAL INFORMATION:</b></p>
+<ul>	<li><p>Name: Rani Nayak</p>
+</li>
+	<li><p>Date of Birth: 10th January 1988</p>
+</li>
+	<li><p>Gender: Female</p>
+</li>
+	<li><p>Father Name: Dr. Ram Nayak</p>
+</li>
+	<li><p>Mother tongue: Marathi</p>
+</li>
+	<li><p>Nationality: Indian</p>
+</li>
+	<li><p>Languages: English, Hindi, Marathi</p>
+</li>
+</ul>
+<p />
+<p><b>DECLARATION:</b></p>
+<p>I hereby declare that the above information is true to the best of my knowledge.</p>
+<p />
+<p>DATE:</p>
+<p>PLACE: MUMBAI</p>
+<p><b>(Rani Nayak)</b></p>
+<p />
+</body></html><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="X-Parsed-By" content="org.apache.tika.parser.DefaultParser" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.image.ImageParser" />
+<meta name="Transparency Alpha" content="none" />
+<meta name="tiff:ImageLength" content="256" />
+<meta name="Compression CompressionTypeName" content="deflate" />
+<meta name="Dimension PixelAspectRatio" content="1.0" />
+<meta name="Data BitsPerSample" content="8 8 8" />
+<meta name="X-TIKA:origResourceName" content="Thumbnails/thumbnail.png" />
+<meta name="Data PlanarConfiguration" content="PixelInterleaved" />
+<meta name="IHDR" content="width=198, height=256, bitDepth=8, colorType=RGB, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none" />
+<meta name="Compression NumProgressiveScans" content="1" />
+<meta name="Chroma ColorSpaceType" content="RGB" />
+<meta name="Chroma BlackIsZero" content="true" />
+<meta name="Compression Lossless" content="true" />
+<meta name="width" content="198" />
+<meta name="Dimension ImageOrientation" content="Normal" />
+<meta name="X-TIKA:embedded_resource_path" content="/embedded-1" />
+<meta name="tiff:BitsPerSample" content="8 8 8" />
+<meta name="tiff:ImageWidth" content="198" />
+<meta name="Chroma NumChannels" content="3" />
+<meta name="Data SampleFormat" content="UnsignedIntegral" />
+<meta name="Content-Type" content="image/png" />
+<meta name="height" content="256" />
+<title></title>
+</head>
+<body /></html>

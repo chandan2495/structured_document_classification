@@ -1,0 +1,178 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="date" content="2015-03-18T05:45:00" />
+<meta name="custom:DocSecurity" content="0" />
+<meta name="meta:paragraph-count" content="112" />
+<meta name="meta:word-count" content="632" />
+<meta name="Table-Count" content="0" />
+<meta name="dc:creator" content="angelo.a" />
+<meta name="generator" content="LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420m0$Build-2" />
+<meta name="Word-Count" content="632" />
+<meta name="dcterms:created" content="2017-06-09T17:40:34.778835169" />
+<meta name="dcterms:modified" content="2015-03-18T05:45:00" />
+<meta name="Last-Modified" content="2015-03-18T05:45:00" />
+<meta name="nbPara" content="112" />
+<meta name="Last-Save-Date" content="2015-03-18T05:45:00" />
+<meta name="meta:object-count" content="0" />
+<meta name="meta:character-count" content="4465" />
+<meta name="Paragraph-Count" content="112" />
+<meta name="nbImg" content="0" />
+<meta name="meta:save-date" content="2015-03-18T05:45:00" />
+<meta name="modified" content="2015-03-18T05:45:00" />
+<meta name="Edit-Time" content="PT8S" />
+<meta name="meta:image-count" content="0" />
+<meta name="Image-Count" content="0" />
+<meta name="nbCharacter" content="4465" />
+<meta name="nbObject" content="0" />
+<meta name="nbPage" content="3" />
+<meta name="Object-Count" content="0" />
+<meta name="nbWord" content="632" />
+<meta name="custom:LinksUpToDate" content="false" />
+<meta name="Content-Type" content="application/vnd.oasis.opendocument.text" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.DefaultParser" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.odf.OpenDocumentParser" />
+<meta name="creator" content="angelo.a" />
+<meta name="meta:author" content="angelo.a" />
+<meta name="meta:creation-date" content="2017-06-09T17:40:34.778835169" />
+<meta name="custom:ShareDoc" content="false" />
+<meta name="meta:table-count" content="0" />
+<meta name="custom:ScaleCrop" content="false" />
+<meta name="Creation-Date" content="2017-06-09T17:40:34.778835169" />
+<meta name="xmpTPg:NPages" content="3" />
+<meta name="Character Count" content="4465" />
+<meta name="editing-cycles" content="1" />
+<meta name="Page-Count" content="3" />
+<meta name="custom:HyperlinksChanged" content="false" />
+<meta name="custom:AppVersion" content="12.0000" />
+<meta name="Author" content="angelo.a" />
+<meta name="nbTab" content="0" />
+<meta name="meta:page-count" content="3" />
+<title></title>
+</head>
+<body><p><div> <b>Grace Albano</b>  Lot No. 8, Montevista Subdivision, Marikina City  Mobile No.: +632 918 - XXX - XXXX  Email: <u>gracealbano95@yahoo.com</u> </div>
+</p>
+<p />
+<p><div> <b>PERSONAL INFORMATION</b>     <b>Gender: Female</b>    <b>Date of Birth: February 24, 1994</b>    <b>Age: 21</b>    <b>Marital Status: Single</b>    <b>Occupation: Fresh Graduate</b>    <b>Interests: Reading, creative writing, swimming, volleyball, travelling, watching documentary f</b> </div>
+</p>
+<p />
+<p>Full Name: Grace S. Albano</p>
+<p>Gender: Female</p>
+<p>Date of Birth: February 24, 1994</p>
+<p>Age: 21</p>
+<p>Marital Status: Single</p>
+<p>Occupation: Fresh Graduate</p>
+<p>Interests: Reading, creative writing, swimming, volleyball, travelling, watching documentary films</p>
+<p><div> <b>CAREER OBJECTIVE</b>  <b>Gender: Female</b>    <b>Date of Birth: February 24, 1994</b>    <b>Age: 21</b>    <b>Marital Status: Single</b>    <b>Occupation: Fresh Graduate</b>    <b>Interests: Reading, creative writing, swimming, volleyball, travelling, watching documentary f</b> </div>
+</p>
+<p />
+<p>I am a fresh college graduate currently looking for a full-time teaching position. I would like to utilize my skills and experience as well as my passion for teaching to train and educate young minds. Moreover, I would like to work with other professionals to improve my skills as an educator which will allow me to further contribute in the field of education.</p>
+<p><div> <b>EDUCATIONAL BACKGROUND</b>  <b>Gender: Female</b>    <b>Date of Birth: February 24, 1994</b>    <b>Age: 21</b>    <b>Marital Status: Single</b>    <b>Occupation: Fresh Graduate</b>    <b>Interests: Reading, creative writing, swimming, volleyball, travelling, watching documentary f</b> </div>
+</p>
+<p />
+<p><b>Bachelor in Elementary Education - Major in General Education (2015)</b></p>
+<p>Our Lady of Perpetual Succor College (OLPSC)</p>
+<p>Concepcion, Marikina City</p>
+<p><div> <b>SUMMARY OF QUALIFICATIONS</b>  <b>Gender: Female</b>    <b>Date of Birth: February 24, 1994</b>    <b>Age: 21</b>    <b>Marital Status: Single</b>    <b>Occupation: Fresh Graduate</b>    <b>Interests: Reading, creative writing, swimming, volleyball, travelling, watching documentary f</b> </div>
+</p>
+<p />
+<p>- Licensure Examination for Teachers (LET) Passer<br />
+- Completed 500 hours of student teacher training<br />
+- Rendered 200 hours as volunteer teacher in the community<br />
+- Trained in Self-Paced Learning Approach<br />
+- With expertise in lesson planning and creating teaching modules</p>
+<p><div> <b>OTHER QUALIFICATIONS:</b>  <b>Gender: Female</b>    <b>Date of Birth: February 24, 1994</b>    <b>Age: 21</b>    <b>Marital Status: Single</b>    <b>Occupation: Fresh Graduate</b>    <b>Interests: Reading, creative writing, swimming, volleyball, travelling, watching documentary f</b> </div>
+</p>
+<p />
+<p>- Excellent written and verbal communication skills.<br />
+- Proficient in Microsoft Office (Word, PowerPoint and Excel)<br />
+- Attended various seminars and trainings for education students</p>
+<p><div> <b>WORK EXPERIENCE</b>  <b>Gender: Female</b>    <b>Date of Birth: February 24, 1994</b>    <b>Age: 21</b>    <b>Marital Status: Single</b>    <b>Occupation: Fresh Graduate</b>    <b>Interests: Reading, creative writing, swimming, volleyball, travelling, watching documentary f</b> </div>
+</p>
+<p />
+<p><b>Student Teacher</b></p>
+<p>November 2014 - February 2015</p>
+<p>Marikina Elementary School</p>
+<p>Florencio Paz, Marikina City</p>
+<p />
+<p><i>Served as a student teacher/teaching assistant, organized activities, drafted lesson plans and organized </i></p>
+<p><i>alternative learning experiences for Grade 3 and 4 pupils.</i></p>
+<p><b>Community Volunteer</b></p>
+<p>April 2014 - May 2014</p>
+<p>Sulong Kabataan Summer Camp</p>
+<p>Marikina City Hall</p>
+<p />
+<p> <i>Participated in the advocacy of the local government of Marikina to educate out-of-school youth in the </i></p>
+<p><i>community. Served as a teacher, facilitator and organizer of various activities.</i></p>
+<p><div> <b>TRAININGS AND SEMINARS ATTENDED</b>    <b>Date of Birth: February 24, 1994</b>    <b>Age: 21</b>    <b>Marital Status: Single</b>    <b>Occupation: Fresh Graduate</b>    <b>Interests: Reading, creative writing, swimming, volleyball, travelling, watching documentary f</b> </div>
+</p>
+<p />
+<p><b>Equipping Future Teachers with Competency Skills</b></p>
+<p>February 5, 2015</p>
+<p>Our Lady of Perpetual Succor College</p>
+<p />
+<p><b>Annual Asia Pacific Summer Camp of the World Youth Alliance</b></p>
+<p>May 12 - 16, 2014</p>
+<p>Kuala Lumpur, Malaysia</p>
+<p />
+<p><b>K-12 Training-Workshop</b></p>
+<p>June 19, 2014</p>
+<p>Our Lady of Perpetual Succor College</p>
+<p />
+<p><b>Future Educators Summit</b></p>
+<p>February 23, 2013</p>
+<p>Roosevelt College<div> <b>HONORS AND AWARDS RECEIVED</b>  <b>Date of Birth: February 24, 1994</b>    <b>Age: 21</b>    <b>Marital Status: Single</b>    <b>Occupation: Fresh Graduate</b>    <b>Interests: Reading, creative writing, swimming, volleyball, travelling, watching documentary f</b> </div>
+</p>
+<p />
+<p />
+<p><b>Top 7 in the Licensure Examination for Teachers</b></p>
+<p>National Capital Region</p>
+<p>August 14, 2015</p>
+<p />
+<p><b>Cum Laude</b></p>
+<p>Our Lady of Perpetual Succor College</p>
+<p>March 27, 2015</p>
+<p />
+<p><b>Researcher of the Year - Silver</b></p>
+<p>Annual School Research Competition</p>
+<p>March 27, 2015</p>
+<p />
+<p><b>Outstanding Youth Volunteer</b></p>
+<p>Search for Outstanding Youth Volunteers</p>
+<p>May 8, 2014<div> <b>REFERENCES</b> </div>
+</p>
+<p />
+<p />
+<p />
+<p>Please contact the following:</p>
+<p />
+<p>Anita Bautista  James Gasmin</p>
+<p>Principal, Marikina Elementary School  Instructor, Education Department (OLPSC)</p>
+<p>Phone: +632 929 - XXX – XXXX  Phone: +632 915 - XXX - XXXX</p>
+</body></html><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="X-Parsed-By" content="org.apache.tika.parser.DefaultParser" />
+<meta name="X-Parsed-By" content="org.apache.tika.parser.image.ImageParser" />
+<meta name="Transparency Alpha" content="none" />
+<meta name="tiff:ImageLength" content="256" />
+<meta name="Compression CompressionTypeName" content="deflate" />
+<meta name="Dimension PixelAspectRatio" content="1.0" />
+<meta name="Data BitsPerSample" content="8 8 8" />
+<meta name="X-TIKA:origResourceName" content="Thumbnails/thumbnail.png" />
+<meta name="Data PlanarConfiguration" content="PixelInterleaved" />
+<meta name="IHDR" content="width=198, height=256, bitDepth=8, colorType=RGB, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none" />
+<meta name="Compression NumProgressiveScans" content="1" />
+<meta name="Chroma ColorSpaceType" content="RGB" />
+<meta name="Chroma BlackIsZero" content="true" />
+<meta name="Compression Lossless" content="true" />
+<meta name="width" content="198" />
+<meta name="Dimension ImageOrientation" content="Normal" />
+<meta name="X-TIKA:embedded_resource_path" content="/embedded-1" />
+<meta name="tiff:BitsPerSample" content="8 8 8" />
+<meta name="tiff:ImageWidth" content="198" />
+<meta name="Chroma NumChannels" content="3" />
+<meta name="Data SampleFormat" content="UnsignedIntegral" />
+<meta name="Content-Type" content="image/png" />
+<meta name="height" content="256" />
+<title></title>
+</head>
+<body /></html>
